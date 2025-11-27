@@ -991,6 +991,7 @@ video {
     max-width: 100%;
     height: auto;
         padding: 10px 10px ;
+            object-fit: cover;
 }
 
 pre {
@@ -1516,10 +1517,10 @@ hr.fancy::before {
 
 .abb {
     
-    color: rgb(15, 15, 15);
-    padding: 12px 12px;
+    color: rgb(247, 243, 243);
+        padding: 20px 20px;
     border-radius: 5px;
-    background-color: rgb(99, 99, 104);
+    background-color: rgb(10, 10, 10);
     /* background: url('https://meritscollege.in/wp-content/uploads/slider/cache/7d72637259f321b6cd5856282505cfe1/WhatsApp-Image-2023-12-21-at-9.12.53-PM.jpg'); */
     
     /* box-shadow: 10px 13px rgb(94, 165, 92);
@@ -1529,10 +1530,10 @@ hr.fancy::before {
 
 .abb1 {
    
-    color: rgb(10, 9, 9);
-    padding: 12px 12px;
+    color: rgb(247, 244, 244);
+       padding: 20px 20px;
     border-radius: 5px;
-    background-color: rgb(103, 104, 107);
+    background-color: rgb(8, 8, 8);
     /* box-shadow: 10px 13px rgb(94, 165, 92);
     box-shadow: -10px -13px rgb(94, 165, 92);
     box-shadow: -9px -8px 13px aqua; */
@@ -4010,7 +4011,7 @@ td:last-child {
     padding: 0px 20px;
     border-radius: 5px;
     border: 2px solid rgb(19, 18, 18);
-    background-color: rgba(209, 201, 201, 0);
+
     color: #171718;
     margin: 5px;
 
@@ -4022,7 +4023,7 @@ td:last-child {
    }
 
 .s-about__list a {
-    color: rgb(27, 26, 26);
+    color: rgb(255, 251, 251);
 }
 
 .s-about__list li {
@@ -4037,7 +4038,7 @@ td:last-child {
     font-weight: 300;
     line-height: 1.2;
     /* color      : var(--color-text-light) !important; */
-    color: #141414;
+    color: #fdfbfb;
 }
 
 /* ------------------------------------------------------------------- 
